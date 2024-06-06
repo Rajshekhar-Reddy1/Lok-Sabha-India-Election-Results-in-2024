@@ -1,7 +1,6 @@
 # Lok-Sabha-India-Election-Results-in-2024
  In-depth constituency-wise results of the 2024 Indian parliamentary elections
-
-https://www.istockphoto.com/photo/indian-general-election-2024-gm2088928037-565718320
+https://media.istockphoto.com/id/2088928020/photo/indian-general-election-2024.jpg?s=1024x1024&w=is&k=20&c=4Gdao6vmiCUCfCSnrRtVsnxD2IAQfedHgfSR_xctAVc=
 
 
 ****About Dataset**
